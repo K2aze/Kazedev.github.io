@@ -1,1 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
+/* SVG CSS */
+.cls-1{
+    fill:url(#linear-gradient);
+}
+.cls-2{
+    fill:red;
+}
+.cls-3{
+    fill:url(#linear-gradient-2);
+}
+.cls-4{
+    fill:url(#linear-gradient-3);
+}
+.cls-5{
+    fill:url(#linear-gradient-4);
+}
+.cls-6{
+    fill:url(#linear-gradient-5);
+}
+.cls-7{
+    fill:url(#linear-gradient-6);
+}
